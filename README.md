@@ -3,7 +3,7 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Group 25 (Melissa R, 'mrwehumbiza@gwu.edu'; Danyu Z, 'dzhao22@gwu.edu'; Jinni Y, 'jinni.yang@gwu.edu'; Saloni S, 'saloni.sharma@gwu.edu')
+* **Person or organization developing model**: Group 25 (Melissa, 'mrwehumbiza@gwu.edu'; Danyu, 'dzhao22@gwu.edu'; Jinni, 'jinni.yang02@gmail.com'; Saloni, 'sharmasaloni987@gmail.com')
 * **Model date**: August, 2022
 * **Model version**: 1
 * **License**: MIT 
@@ -16,7 +16,7 @@ Intended Use
 
 ### Training Data
 
-* **Source of training data**: GWU Blackboard, email  'mrwehumbiza@gwu.edu', 'dzhao22@gwu.edu', 'jinni.yang@gwu.edu', or 'saloni.sharma@gwu.edu' for more information
+* **Source of training data**: GWU Blackboard, email  'mrwehumbiza@gwu.edu', 'dzhao22@gwu.edu', 'jinni.yang02@gmail.com', or 'sharmasaloni987@gmail.com' for more information
 * **How training data was divided into training and validation data**: 50% training, 25% validation, 25% test
 * **Number of rows in training and validation data**:
   * Training rows: 15,000
