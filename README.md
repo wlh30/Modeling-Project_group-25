@@ -9,7 +9,7 @@
 * **License**: MIT 
 * **Model implementation code**: https://github.com/mrwehumbiza/Modeling-Project_group-25
 
-Intended Use
+### Intended Use
 **Primary intended uses**: This model determines the eligibility for a credit line increase.
 **Primary intended users**: Professor Hall for grading in Bootcamp course.
 **Out-of-scope use cases**:Any use beyond an educational example is out-of-scope.
@@ -37,3 +37,12 @@ Intended Use
 | **PAY_AMT1 - PAY_AMT6** | inputs | float | amount of previous payment; PAY_AMT1 = amount paid in September, 2005; PAY_AMT2 = amount paid in August, 2005; ...; PAY_AMT6 = amount paid in April, 2005 |
 | **DELINQ_NEXT**| target | int | whether a customer's next payment is delinquent (late), 1 = late; 0 = on-time |
 
+###  Test data 
+* **Source Data**:
+In computer programming, source data or data source is the primary location from where data comes. The data source is a database, a dataset, a spreadsheet or even hard-coded data. When data is displayed, it is retrieved from its data source. The software processes this data internally, performing additional calculations if necessary, formats it, and updates the application window.
+* **Test Data**:
+Test Data is data that is used to execute the tests on testware. Test data needs to be precise and exhaustive to uncover the defects.Test Data is the input given to a software program during test execution. It represents data that affects or is affected by software execution while testing. Test data is used for both positive testing to verify that functions produce expected results for given inputs and for negative testing to test software ability to handle unusual, exceptional or unexpected inputs.
+
+* **Source of test data**: credit_line_increase.csv,GWU Blackboard, email  'mrwehumbiza@gwu.edu', 'dzhao22@gwu.edu', 'jinni.yang02@gmail.com', or 'sharmasaloni987@gmail.com' for more information
+* **Number of rows in test data**: 7500 rows 
+* **State any differences in columns between training and test data**: None
