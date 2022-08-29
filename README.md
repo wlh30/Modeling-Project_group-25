@@ -7,7 +7,7 @@
 * **Model date**: August, 2022
 * **Model version**: 1
 * **License**: MIT 
-* **Model implementation code**: [Modeling-Project_group-25.ipynb](Modeling-Project_group-25.ipynb)
+* **Model implementation code**: [Modeling-Project_group-25]([Modeling-Project_group-25.ipynb](https://github.com/mrwehumbiza/Modeling-Project_group-25))
 
 ### Intended Use
 **Primary intended uses**: This model determines the eligibility for a credit line increase.
